@@ -14,3 +14,4 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+buat folder latihan di C:\xampp\htdocs\latihan\note_app, dalam folder note_app buat 5 file php: create, delete, detail, list, update. ambil 5 file tersebut (PHP extensi) copas dari folder note_app_mysql/web
